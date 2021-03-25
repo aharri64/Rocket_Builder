@@ -1,2 +1,3 @@
 # Rocket_Builder
-Rocket builder is my first JS project
+Rocket builder will be built one day
+
